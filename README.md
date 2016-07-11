@@ -45,3 +45,7 @@
 > IT狗，你的資訊真的很有用！
 
 原圖：https://www.facebook.com/photo.php?fbid=10210125449719192
+
+
+##意見
+如對選舉內容或方式有任何意見，歡迎直接開ISSUE討論及以PULL REQUEST形式齊齊參與。
